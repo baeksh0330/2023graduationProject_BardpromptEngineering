@@ -2,7 +2,7 @@
 =======
 # Front Description
 Gachon university AI&amp;software department 2023 graduation project _ Bard prompt engineering
-
+<img width="730" alt="스크린샷 2023-12-09 오전 1 43 33" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/94830364/e7101880-c63e-473b-940e-f0199a774185"></br>
 <img width="731" alt="스크린샷 2023-12-09 오전 1 44 21" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/94830364/2a197b8c-94d3-4617-a6b5-ea919951aa5a"></br>
 <img width="599" alt="스크린샷 2023-12-09 오전 1 44 33" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/94830364/1219767b-8aec-4412-b811-d7e11ff71c35"></br>
 <img width="543" alt="스크린샷 2023-12-09 오전 1 44 41" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/94830364/759a2711-a481-4fa0-bf5d-c8b44ad65040"></br></br>
