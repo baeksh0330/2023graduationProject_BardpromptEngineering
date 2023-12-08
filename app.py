@@ -33,13 +33,13 @@ with st.form('form', clear_on_submit=True):
  
 if submitted and user_input:
     
-    token = 'dwg5yL4kwsQkay_WLnMrqlruwXvYokR5Ji4G_sUsuCSYczVdC9Y17Ampcp8h_x5KdhyBFA.'
+    token = 'yourToken'
 
     bard = Bard(token=token)
 
     optimized_query=query_optimizer(user_input) # 이 함수에서 쿼리 optimize하기
     
-    response = generate_response(user_input) # optimze한 쿼리를 바드를 통해 답변 받아오기
+    response = generate_response(optimized_query) # optimze한 쿼리를 바드를 통해 답변 받아오기
     
     optimized_prompt = prompt_optimizer(response)
     
