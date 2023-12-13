@@ -1,18 +1,18 @@
 # 2023graduationProject_BardpromptEngineering
 ### Gachon university AI&amp;software department 2023 graduation project _ Bard prompt engineering <br><br>
-✨ [Goal](#goal)<br>
-✨ [Preview](#preview)<br>
-✨ [System Architecture](#system-architecture)<br>
-✨ [Members](#members-and-role)<br>
-✨ [Development Tools](#development-tools)<br>
-✨ [Project Management Tools](#project-management-tools)<br>
-✨ [Project Period](#project-period)<br>
-✨ [References](#references)<br>
+* [Goal](#goal)<br>
+* [Preview](#preview)<br>
+* [System Architecture](#system-architecture)<br>
+* [Members](#members-and-role)<br>
+* [Development Tools](#development-tools)<br>
+* [Project Management Tools](#project-management-tools)<br>
+* [Project Period](#project-period)<br>
+* [References](#references)<br>
 
 <img width="542" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/65dcd5f0-6bf8-4ca4-bb79-a3f83cbbcc59"><hr>
 <br> <br>
 
-### Goal
+### ✨Goal
 <img width="502" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/55ae8c0e-90de-4ddb-9e2f-6fc3cc52f6d7">
 <br>
 LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는 결과를 사용자에게 제공하는
@@ -20,19 +20,19 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
  __LLM과 프롬프트 엔지니어링을 사용한 프로그램 생성 모델__ 개발
 <br> <br>
 
-### preview
+### ✨preview
 <img width="694" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/41387341-bdba-43ca-b5ac-bd44009431e0">
 <img width="679" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/a1ea5fbe-da8d-40e0-b027-e3f4f6de4af6">
 <img width="647" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/64a5e90d-d362-40d9-91ce-e551be0ba59c">
 <img width="653" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/592f34e2-9922-4213-a478-eb828f932995">
 
 <br> <br>
-### system architecture
+### ✨system architecture
 <img width="626" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/e030cd0b-5680-4579-abe0-6242416d5038">
 
 
 <br> <br>
-### members and role
+### ✨members and role
 #### 권새봄
 * Front-end design with Streamlit / Python
 * Presentation preparation
@@ -47,23 +47,23 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 #### 김규아
 *
 <br><br>
-### Development tools
+### ✨Development tools
 * IDE - Google Colab, VSCode
 * Language - Python
 * front-end design - Streamlit
 <br> <br>
-### project management tools
+### ✨project management tools
 * Version control - Github
 * Communication - offline / online(KakaoTalk)
 * Project Management - Notion
 <br> <br>
-### project period 
+### ✨project period 
 * 2023.03-2023.12
 * Idea meeting : 2023.03-2023.06
 * Development period : 2023.06-2023.12
 <br><br>
 
-### references
+### ✨references
 * dialog-KoElectra 
 * GPT-prompt-engineer
 * 'Developing Code Generation Prompts for Programming Education with Generative AI', 김슬기(2023)
