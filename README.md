@@ -49,27 +49,23 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 * IDE - Google Colab, VSCode
 * Language - Python
 * front-end design - Streamlit
-  
 <br> <br>
 ### ✨🚀Project Management Tools
 * Version control - Github
 * Communication - offline / online(KakaoTalk)
 * Project Management - Notion
-  
 <br> <br>
 ### 🚀Project Period 
 * 2023.03-2023.12
 * Idea meeting : 2023.03-2023.06
 * Development period : 2023.06-2023.12
 <br><br>
-
 ### 🚀 References
 * dialog-KoElectra 
 * GPT-prompt-engineer
 * 'Developing Code Generation Prompts for Programming Education with Generative AI', 김슬기(2023)
 * 'ChatGPT를 기반으로 한 프롬프트 엔지니어링 기법 연구', 이명숙(2023.7)
-
-</br>
+<br><br>
 ### 🚀 Contents
 * [Goal](#goal)<br>
 * [Preview](#preview)<br>
