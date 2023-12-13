@@ -13,8 +13,6 @@
 <br> <br>
 
 ### Goal
-<img width="541" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/de36eae5-e0d2-43be-a9f7-4bf84f55c874">
-<img width="727" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/bc9d8002-7b23-4a3d-9600-8b02560d23f7">
 <img width="502" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/55ae8c0e-90de-4ddb-9e2f-6fc3cc52f6d7">
 <br>
 LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는 결과를 사용자에게 제공하는
