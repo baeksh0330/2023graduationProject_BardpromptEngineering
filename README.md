@@ -1,7 +1,7 @@
-# 2023 graduation Project 🚀
+# ✨ 2023 graduation Project ✨
 ### Gachon university AI&amp;software department 2023 graduation project _ Bard prompt engineering <br><br>
 
-### ✨Goal
+### 🚀 Goal
 <img width="502" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/55ae8c0e-90de-4ddb-9e2f-6fc3cc52f6d7">
 <br>
 LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는 결과를 사용자에게 제공하는
@@ -9,7 +9,7 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
  __LLM과 프롬프트 엔지니어링을 사용한 프로그램 생성 모델__ 개발
 <br> <br>
 
-### ✨Preview
+### 🚀 Preview
 * Question</br>
 <img width="694" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/41387341-bdba-43ca-b5ac-bd44009431e0"> </br></br>
 * Answer (Chat with Bard)</br>
@@ -20,18 +20,18 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 <img width="653" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/592f34e2-9922-4213-a478-eb828f932995"></br>
 
 <br> <br>
-### ✨System Architecture
+### 🚀 System Architecture
 <img width="626" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/e030cd0b-5680-4579-abe0-6242416d5038">
 
 <br> <br>
-### ✨Model (Detailed) 
+### 🚀Model (Detailed) 
 <img width="927" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/94830364/6ae7356f-e91b-4cc5-af46-c98c00784584"></br>
 <img width="921" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/94830364/ec65fa3f-0161-492c-b9db-47e071ec2531"></br>
 
 
 
 <br> <br>
-### ✨Members and Role
+### 🚀 Members and Role
 #### 권새봄
 * Front-end design with Streamlit / Python
 * Presentation preparation
@@ -51,18 +51,18 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 * Language - Python
 * front-end design - Streamlit
 <br> <br>
-### ✨Project Management Tools
+### ✨🚀Project Management Tools
 * Version control - Github
 * Communication - offline / online(KakaoTalk)
 * Project Management - Notion
 <br> <br>
-### ✨Project Period 
+### 🚀Project Period 
 * 2023.03-2023.12
 * Idea meeting : 2023.03-2023.06
 * Development period : 2023.06-2023.12
 <br><br>
 
-### ✨References
+### 🚀References
 * dialog-KoElectra 
 * GPT-prompt-engineer
 * 'Developing Code Generation Prompts for Programming Education with Generative AI', 김슬기(2023)
