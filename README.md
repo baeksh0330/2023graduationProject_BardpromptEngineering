@@ -23,13 +23,12 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 <br> <br>
 
 ### ✨Preview
-</br>
 * Question</br>
-<img width="694" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/41387341-bdba-43ca-b5ac-bd44009431e0"> </br>
+<img width="694" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/41387341-bdba-43ca-b5ac-bd44009431e0"> </br></br>
 * Answer (Chat with Bard)</br>
-<img width="679" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/a1ea5fbe-da8d-40e0-b027-e3f4f6de4af6"></br>
+<img width="679" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/a1ea5fbe-da8d-40e0-b027-e3f4f6de4af6"></br></br>
 * Code </br>
-<img width="647" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/64a5e90d-d362-40d9-91ce-e551be0ba59c"></br>
+<img width="647" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/64a5e90d-d362-40d9-91ce-e551be0ba59c"></br></br>
 * References </br>
 <img width="653" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/592f34e2-9922-4213-a478-eb828f932995"></br>
 
