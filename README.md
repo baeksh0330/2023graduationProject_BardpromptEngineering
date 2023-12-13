@@ -1,13 +1,13 @@
 # 2023graduationProject_BardpromptEngineering
 ### Gachon university AI&amp;software department 2023 graduation project _ Bard prompt engineering <br><br>
-[✨ Goal](#goal)<br>
-[✨ Preview](#preview)<br>
-[✨ System Architecture](#system-architecture)<br>
-[✨ Members](#members-and-role)<br>
-[✨ Development Tools](#development-tools)<br>
-[✨ Project Management Tools](#project-management-tools)<br>
-[✨ Project Period](#project-period)<br>
-[✨ References](#references)<br>
+✨ [Goal](#goal)<br>
+✨ [Preview](#preview)<br>
+✨ [System Architecture](#system-architecture)<br>
+✨ [Members](#members-and-role)<br>
+✨ [Development Tools](#development-tools)<br>
+✨ [Project Management Tools](#project-management-tools)<br>
+✨ [Project Period](#project-period)<br>
+✨ [References](#references)<br>
 
 <img width="542" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/65dcd5f0-6bf8-4ca4-bb79-a3f83cbbcc59"><hr>
 <br> <br>
