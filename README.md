@@ -35,7 +35,6 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 <br> <br>
 ### ✨System Architecture
 <img width="626" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/e030cd0b-5680-4579-abe0-6242416d5038">
-<img width="1251" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/94830364/5b894dc2-b3d9-471a-b549-4ce8749fee90">
 
 <br> <br>
 ### ✨Model (Detailed) 
