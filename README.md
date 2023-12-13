@@ -43,14 +43,13 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 * Presentation
 #### 김규아
 *
-
 <br><br>
 ### 🚀 Development Tools
 * IDE - Google Colab, VSCode
 * Language - Python
 * front-end design - Streamlit
 <br> <br>
-### ✨🚀Project Management Tools
+### 🚀Project Management Tools
 * Version control - Github
 * Communication - offline / online(KakaoTalk)
 * Project Management - Notion
