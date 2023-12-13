@@ -9,7 +9,6 @@
 * [Project Period](#project-period)<br>
 * [References](#references)<br>
 
-<img width="542" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/65dcd5f0-6bf8-4ca4-bb79-a3f83cbbcc59"><hr>
 <br> <br>
 
 ### ✨Goal
