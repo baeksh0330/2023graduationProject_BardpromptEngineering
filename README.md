@@ -19,12 +19,12 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 * References </br>
 <img width="653" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/592f34e2-9922-4213-a478-eb828f932995"></br>
 
-<br> <br>
+<br> 
 ### 🚀 System Architecture
 <img width="626" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/e030cd0b-5680-4579-abe0-6242416d5038">
 
 <br> <br>
-### 🚀Model (Detailed) 
+### 🚀 Model (Detailed) 
 <img width="927" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/94830364/6ae7356f-e91b-4cc5-af46-c98c00784584"></br>
 <img width="921" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/94830364/ec65fa3f-0161-492c-b9db-47e071ec2531"></br>
 
@@ -46,7 +46,7 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 #### 김규아
 *
 <br><br>
-### ✨Development Tools
+### 🚀 Development Tools
 * IDE - Google Colab, VSCode
 * Language - Python
 * front-end design - Streamlit
@@ -62,14 +62,14 @@ LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는
 * Development period : 2023.06-2023.12
 <br><br>
 
-### 🚀References
+### 🚀 References
 * dialog-KoElectra 
 * GPT-prompt-engineer
 * 'Developing Code Generation Prompts for Programming Education with Generative AI', 김슬기(2023)
 * 'ChatGPT를 기반으로 한 프롬프트 엔지니어링 기법 연구', 이명숙(2023.7)
 
 </br></br>
-### ✨Contents
+### 🚀 Contents
 * [Goal](#goal)<br>
 * [Preview](#preview)<br>
 * [System Architecture](#system-architecture)<br>
