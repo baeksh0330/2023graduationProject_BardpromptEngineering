@@ -1,4 +1,4 @@
-# 2023 graduation Project 3-2
+# 2023 graduation Project 🚀
 ### Gachon university AI&amp;software department 2023 graduation project _ Bard prompt engineering <br><br>
 * [Goal](#goal)<br>
 * [Preview](#preview)<br>
@@ -9,7 +9,7 @@
 * [Project Period](#project-period)<br>
 * [References](#references)<br>
 
-<br> <br>
+<br> 
 
 ### ✨Goal
 <img width="502" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/55ae8c0e-90de-4ddb-9e2f-6fc3cc52f6d7">
