@@ -17,8 +17,9 @@
 <img width="727" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/bc9d8002-7b23-4a3d-9600-8b02560d23f7">
 <img width="502" alt="image" src="https://github.com/baeksh0330/2023graduationProject_BardpromptEngineering/assets/78344141/55ae8c0e-90de-4ddb-9e2f-6fc3cc52f6d7">
 <br>
-LLM을 이용한 코딩의 한계를 개선하고 최종적으로 오류 없는 결과를 사용자에게 제공하는 
-**LLM과 프롬프트 엔지니어링을 사용한 프로그램 생성 모델** 개발
+LLM을 이용한 코딩의 한계를 개선하고, 최종적으로 오류 없는 결과를 사용자에게 제공하는
+ 
+ __LLM과 프롬프트 엔지니어링을 사용한 프로그램 생성 모델__ 개발
 <br> <br>
 
 ### preview
