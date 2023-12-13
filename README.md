@@ -5,7 +5,7 @@
 * [Goal](#goal)<br>
 * [Preview](#preview)<br>
 * [System Architecture](#system-architecture)<br>
-* [Model (Detailed)](#model-(detailed)))<br>
+* [Model (Detailed)](#model-(detailed))<br>
 * [Members](#members-and-role)<br>
 * [Development Tools](#development-tools)<br>
 * [Project Management Tools](#project-management-tools)<br>
