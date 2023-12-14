@@ -4,7 +4,6 @@ import os
 
 from bardapi import Bard
 
-
 def query_optimizer(user_input):
     optimized_query = user_input
     # query opitmizer 하는 코드 넣기
