@@ -21,11 +21,6 @@ Gachon university AI&amp;software department 2023 graduation project _ Bard prom
 *** 바드에게 답변 받은 문자열이 담긴 변수 : response </br>
 --> response를 prompt_optimizer(response) 함수로 보냄 --> responxe optimize 해서 반환 (= 최종결과) </br></br>
 
-- 각 함수에 query, prompt enginnering을 수행하는 코드를 추가하면 됨</br>
-- 각자 본인 bard Token 이용하여 yourToken 부분만 수정하면 돌아감</br>
-- 실행 후 터미널에 streamlit run app.py 입력</br>
-- local에서는 실행이 되는데 bard에서 api key의 문제인지 배포가 안됨 ..</br>
-- 에러 사항 : https://github.com/dsdanielpark/Bard-API/issues/126</br></br></br>
-
-
-
+- 각 함수에 query, prompt enginnering을 수행하는 코드를 추가하기. </br>
+- 각자 본인 bard Token 이용하여 yourToken 부분 수정 필요. </br>
+- 실행 후 터미널에 streamlit run app.py 입력.</br>
